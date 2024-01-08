@@ -11,7 +11,7 @@ Il doit être formaté ainsi `TOKEN=(votre token)`.
 
 ## Documentation
 
-Toute commande ci-dessous doivent être préceder du signe `!` pour fonctionner correctement.
+Toute commande ci-dessous doivent être précéder du signe `!` pour fonctionner correctement.
 
 ```
 Exemple : 
@@ -40,23 +40,23 @@ Exemple :
 #### speak_about 
   permet de savoir si le bot est capable de parler d'un sujet
   
-#### reset 
+### reset 
   permet de réinitialiser l'arbre
   
-##### clear
+#### clear
   permet d'effacer les messages de la conversation (par exemple : `!clear 2`)
   il est obligatoire d'ajouter un argument : un chiffre après `!clear`
      
-##### historique 
+#### historique 
    permet de voir tout l'historique
    
-##### last_command 
+#### last_command 
   permet de voir la dernière commande saisie
   
-##### clear_historique 
+#### clear_historique 
   permet de vider/supprimer l'historique du bot
   
-##### recette
+#### recette
   propose plusieurs recettes de pâtisseries (par exemple : `!recette cookie 2`)
   il est obligatoire d'ajouter deux arguments : la recette choisi et pour le nombre de personne après `!recette`
 
