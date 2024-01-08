@@ -6,7 +6,7 @@ class NodeList:
     def add_next(self, node):
         self.next_node = node
 
-#création de la classe liste chainée qui permet de récupérer les données nécessaire pour le bot
+#création d'une liste chainée qui permet de récupérer les données nécessaire à la récupération de l'historique, sa suppresion. 
 class ChainedList:
     def __init__(self):
         self.first_node= None
