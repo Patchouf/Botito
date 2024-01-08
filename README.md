@@ -33,28 +33,35 @@ Exemple :
 
 #### aide 
   permet de visualiser les commandes
+  
 #### pizza
   création de l'arbre qui permet de faire une pizza
+  
 ##### speak_about 
   permet de savoir si le bot est capable de parler d'un sujet
+  
 ##### reset 
   permet de réinitialiser l'arbre
+  
 ##### clear
-     permet d'effacer les messages de la conversation ( par exemple : `!clear 2`)
-     il est obligatoire d'ajouter un argument : un chiffre après `!clear` 
+     permet d'effacer les messages de la conversation (par exemple : `!clear 2`)
+     il est obligatoire d'ajouter un argument : un chiffre après `!clear`
+     
 ##### historique 
    permet de voir tout l'historique
+   
 ##### last_command 
   permet de voir la dernière commande saisie
+  
 ##### clear_historique 
   permet de vider/supprimer l'historique du bot
+  
 ##### recette
   propose plusieurs recettes de pâtisseries (par exemple : `!recette cookie 2`)
   il est obligatoire d'ajouter deux arguments : la recette choisi et pour le nombre de personne après `!recette`
 
 
-
-
+## Aide/lien utilisé
 https://www.docstring.fr/blog/creer-un-bot-discord-avec-python/
 https://github.com/Rapptz/discord.py/blob/master/examples/deleted.py
 https://www.youtube.com/watch?v=ksAtGCFxrP8&list=PL-7Dfw57ZZVRB4N7VWPjmT0Q-2FIMNBMP&index=2&ab_channel=JamesS
