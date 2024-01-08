@@ -61,6 +61,7 @@ Exemple :
 
 
 ## Aide/lien utilisé
+aide de mes camarades de classe pour la liste chainé et l'arbre.
 https://www.docstring.fr/blog/creer-un-bot-discord-avec-python/
 https://github.com/Rapptz/discord.py/blob/master/examples/deleted.py
 https://www.youtube.com/watch?v=ksAtGCFxrP8&list=PL-7Dfw57ZZVRB4N7VWPjmT0Q-2FIMNBMP&index=2&ab_channel=JamesS
