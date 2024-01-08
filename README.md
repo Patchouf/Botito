@@ -7,7 +7,7 @@ Botito est un bot discord crée en projet de fin de matière en Python.
 ## Configuration
 
 Créer un fichier config où vous mettrez votre Token.
-Il doit être formaté ainsi `` TOKEN=(votre token)``
+Il doit être formaté ainsi `TOKEN=(votre token)`.
 
 ## Documentation
 
