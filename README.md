@@ -31,16 +31,16 @@ Exemple :
 - [recette](#recette)
 
 
-#### aide 
+### aide 
   permet de visualiser les commandes
   
-#### pizza
+### pizza
   création de l'arbre qui permet de faire une pizza
   
-##### speak_about 
+#### speak_about 
   permet de savoir si le bot est capable de parler d'un sujet
   
-##### reset 
+#### reset 
   permet de réinitialiser l'arbre
   
 ##### clear
