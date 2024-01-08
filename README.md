@@ -1,4 +1,4 @@
-### Botito
+# Botito
 
 Botito est un bot discord crée en projet de fin de matière en Python.
 
