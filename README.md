@@ -44,8 +44,8 @@ Exemple :
   permet de réinitialiser l'arbre
   
 ##### clear
-     permet d'effacer les messages de la conversation (par exemple : `!clear 2`)
-     il est obligatoire d'ajouter un argument : un chiffre après `!clear`
+  permet d'effacer les messages de la conversation (par exemple : `!clear 2`)
+  il est obligatoire d'ajouter un argument : un chiffre après `!clear`
      
 ##### historique 
    permet de voir tout l'historique
