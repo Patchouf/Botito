@@ -1,8 +1,7 @@
 # Botito
 
 Botito est un bot discord crée en projet de fin de matière en Python.
-
-> Botito permet de donner des recettes de patisserie, de faire sa propre pizza.
+Botito permet de donner des recettes de patisserie, de faire sa propre pizza etc
 
 ## Configuration
 
